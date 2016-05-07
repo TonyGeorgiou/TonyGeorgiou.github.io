@@ -4,30 +4,30 @@ body {
 }
 h1 {
 	text-align: center;
-	font-family:"https://www.google.com/fonts#UsePlace:use/Collection:Candal","Comic Book Bold.otf","Abril Fatface";
+	font-family:"Candal";
 	font-size: 100px;
 	font-weight: bold;
 	font-color:rgb(50,50,50);
 }
 slogan {
 	text-align: right;
-	font-family: "Abril Fatface";
+	font-family: "Candal";
 	font-size: 70px;
 	font-style: italic;
 	color rgb(255,0,0);
 }
 p {
-	font-family:"Comic Book.otf", "Abril Fatface";
+	font-family:"Candal";
 	font-size: 30px;
 	color: rgb(51,48,255);
 } 
 ul { 
-	font-family:"Comic Book.otf", "Abril Fatface";
-	font-size: 30px;
+	font-family:"Candal";
+	font-size: 20px;
 	color: rgb(255,0,0);
 }
 footer {
-	font-family:"Comic Book.otf", "Abril Fatface";
+	font-family:"Candal";
 	font-size: 35px;
 	color: rgb(255,235,44);
 	text-align: right;
