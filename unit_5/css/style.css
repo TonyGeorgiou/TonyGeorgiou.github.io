@@ -2,6 +2,26 @@ body {
 	background:url("../images/3634017204_027734e9d2_o.jpg") no-repeat;
     background-size: cover;	
 }
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
 h1 {
 	text-align: center;
 	font-family:"Candal";
@@ -50,6 +70,9 @@ ul {
 }
 
 footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 	font-family:"Candal";
 	font-size: 35px;
 	color: rgb(51,48,255);
